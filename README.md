@@ -1,6 +1,8 @@
 # py-se-bootcamp
-####*_A Professional Yoga with Selenium & Python_*
-This repo contains the code we discussed throughout the course. Also, it will have assignments solution.
+
+### _A Professional Yoga with Selenium & Python_
+
+_This repo contains the code we discussed throughout the course. Also, it will have assignments solution._
 
 ###### ❝ WHAT DO WE DO WITH CODE HERE :ok_woman: :question: ❞
 - _Open the respective file_ 
