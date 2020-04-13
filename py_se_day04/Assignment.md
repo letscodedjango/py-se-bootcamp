@@ -1,5 +1,7 @@
 
- <img src="./pythonclipart.png">
+ <div style="text-align:center;">
+
+ <img src="./pythonclipart.png" style="width:50%; text-align: center">
 
   <span style="font-family:Papyrus; font-size:2em; text-align: center;">Assignment III</span>
 
@@ -25,3 +27,5 @@ _Please consider the unit of these values as `cm`_
   >_`Solve using both types of loop. Make sure to design different function for each loop`_
 
 <span style="font-family:Papyrus; font-size:2em;">Happy Coding!</span>
+ 
+ </div>
