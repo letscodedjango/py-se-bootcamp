@@ -3,7 +3,9 @@
 
  <img src="./pythonclipart.png" style="width:50%; text-align: center">
 
-  <span style="font-family:Papyrus; font-size:2em; text-align: center;">Assignment III</span>
+  <!-- <span style="font-family:Papyrus; font-size:2em; text-align: center;">Assignment III</span> -->
+
+# ASSIGNMENT III
 
 >NOTE: Please make sure to write the code and share on my private slack chat
 
