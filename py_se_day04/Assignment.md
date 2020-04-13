@@ -1,4 +1,7 @@
-#### 🐍 ASSIGNMENT III:memo: 🐍
+
+ <img src="./pythonclipart.png">
+
+  <span style="font-family:Papyrus; font-size:2em; text-align: center;">Assignment III</span>
 
 >NOTE: Please make sure to write the code and share on my private slack chat
 
@@ -21,5 +24,4 @@ _Please consider the unit of these values as `cm`_
 :pushpin:Define a function that helps to print all the numbers between 5 and 50 with interval of 5 for ex. 5, 10, 15 and so on... 
   >_`Solve using both types of loop. Make sure to design different function for each loop`_
 
-
-<__HAPPY__> CODING__ GUYS....
+<span style="font-family:Papyrus; font-size:2em;">Happy Coding!</span>
