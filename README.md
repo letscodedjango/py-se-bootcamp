@@ -17,10 +17,16 @@ _This repo contains the code we discussed throughout the course. Also, it will h
 ###### ❝ A BIG THANKS TO ALL FOR YOUR DONATION ❞
 
 __*Prashant Bhosle*__
+
 __*Nitin Sarode*__
+
 __*Harshal Patil*__
+
 __*Sneha Wagh*__
+
 __*Snehal*__
+
 __*Kamini Pawar*__
+
 __*Amol Kale*__
 
