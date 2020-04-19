@@ -22,7 +22,7 @@ __*Nitin Sarode*__
 
 __*Harshal Patil*__
 
-__*Sneha Wagh*__
+__*Shweta Wagh*__
 
 __*Snehal*__
 
@@ -31,4 +31,5 @@ __*Kamini Pawar*__
 __*Krunal Patel*__
 
 __*Amol Kale*__
+
 
