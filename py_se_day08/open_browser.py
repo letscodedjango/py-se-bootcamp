@@ -20,6 +20,8 @@ def open_chrome_browser():
 
     sleep(3)
 
+
+
     # To find element element using link_text
     # macbook_pro_details = driver.find_element_by_link_text("Apple 15\" MacBook Pro, Retina, Touch Bar, 2.9GHz Intel Core i7 Quad Core, 16GB RAM, 512GB SSD, Silver, MPTV2LL/A (Newest Version)")
     # macbook_pro_details.click()
