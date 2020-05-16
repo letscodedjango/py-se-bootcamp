@@ -14,7 +14,7 @@ def verify_dynamic_dropdown():
     driver.maximize_window()
     time.sleep(4)
 
-    driver.find_element_by_xpath("//button[@class='_2AkmmA _29YdH8']").click();
+    driver.find_element_by_xpath("//button[@class='_2AkmmA _29YdH8']").click()
 
     actions = ActionChains(driver)
 
@@ -22,12 +22,15 @@ def verify_dynamic_dropdown():
 
     actions.move_to_element(electronics).perform()
 
+
     samsung = driver.find_element_by_xpath("(//a[@title='Samsung'])[1]")
 
     #actions.move_to_element(samsung).click().perform()  # action chaining
 
-    actions.move_to_element(samsung).perform()
-    actions.click().perform()  # action chaining
+    # actions.move_to_element(samsung).perform()
+    # actions.click().perform()  # action chaining
+
+    actions.move_to_element(samsung).click().perform();
 
     time.sleep(7)
 
