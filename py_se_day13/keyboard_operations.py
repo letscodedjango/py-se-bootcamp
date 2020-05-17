@@ -18,7 +18,7 @@ def verify_drag_and_drop():
 
     #search_box.send_keys("Python")
 
-    #search_box.send_keys(Keys.ENTER)
+    search_box.send_keys(Keys.ENTER)
 
     time.sleep(3)
 
