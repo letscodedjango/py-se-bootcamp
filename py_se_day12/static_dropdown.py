@@ -16,7 +16,7 @@ def verify_static_dropdown():
     day_loc = driver.find_element_by_id("day")
 
     select_day = Select(day_loc)
-    select_day.select_by_value("4")  # 4
+    select_day.select_by_value("4")  # 4a
 
     time.sleep(3)
 
